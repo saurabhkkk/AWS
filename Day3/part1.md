@@ -1,12 +1,12 @@
-Linux Commands:
+**Linux Commands:**
 
-1]Sudosu -&gt;If u want to go to root user cmd is
+1]Sudosu -\&gt;If u want to go to root user cmd is
 
 sudo means root
 
-2]ls&gt;list directory
+2]ls\&gt;list directory
 
-3)pwd-&gt;print working directory
+3)pwd-\&gt;print working directory
 
 4]Cd=change directory
 
@@ -16,7 +16,7 @@ sudo means root
 
 7]Vi filename=we can make the .txt file
 
-8]i -&gt;It shows insert
+8]i -\&gt;It shows insert
 
 9]:w=write in the file
 
@@ -34,4 +34,4 @@ sudo means root
 
 14]:wq!=Force to quit forcefully
 
-15]Help cmdname-&gt; gives all the info about commands
+15]Help cmdname-\&gt; gives all the info about commands
